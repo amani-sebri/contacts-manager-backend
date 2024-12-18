@@ -21,7 +21,7 @@ This is a PHP-based backend project that provides RESTful APIs for a web applica
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/amani-sebri/contacts-manager-backend.git
 cd <repository-name>
 run composer install 
 run php -S localhost:8000 -t public
